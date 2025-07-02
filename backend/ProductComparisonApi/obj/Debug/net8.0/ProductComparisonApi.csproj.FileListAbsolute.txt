@@ -1,0 +1,44 @@
+H:\My Drive\Facu\Ejercicio\backend\ProductComparisonApi\obj\Debug\net8.0\ProductComparisonApi.csproj.AssemblyReference.cache
+H:\My Drive\Facu\Ejercicio\backend\ProductComparisonApi\obj\Debug\net8.0\ProductComparisonApi.GeneratedMSBuildEditorConfig.editorconfig
+H:\My Drive\Facu\Ejercicio\backend\ProductComparisonApi\obj\Debug\net8.0\ProductComparisonApi.AssemblyInfoInputs.cache
+H:\My Drive\Facu\Ejercicio\backend\ProductComparisonApi\obj\Debug\net8.0\ProductComparisonApi.AssemblyInfo.cs
+H:\My Drive\Facu\Ejercicio\backend\ProductComparisonApi\obj\Debug\net8.0\ProductComparisonApi.csproj.CoreCompileInputs.cache
+H:\My Drive\Facu\Ejercicio\backend\ProductComparisonApi\obj\Debug\net8.0\ProductComparisonApi.MvcApplicationPartsAssemblyInfo.cs
+H:\My Drive\Facu\Ejercicio\backend\ProductComparisonApi\obj\Debug\net8.0\ProductComparisonApi.MvcApplicationPartsAssemblyInfo.cache
+H:\My Drive\Facu\Ejercicio\backend\ProductComparisonApi\obj\Debug\net8.0\ProductComparisonApi.dll
+H:\My Drive\Facu\Ejercicio\backend\ProductComparisonApi\obj\Debug\net8.0\refint\ProductComparisonApi.dll
+H:\My Drive\Facu\Ejercicio\backend\ProductComparisonApi\obj\Debug\net8.0\ProductComparisonApi.pdb
+C:\Users\federico.carbonell\Documents\Ejercicio\backend\ProductComparisonApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\federico.carbonell\Documents\Ejercicio\backend\ProductComparisonApi\bin\Debug\net8.0\appsettings.json
+C:\Users\federico.carbonell\Documents\Ejercicio\backend\ProductComparisonApi\bin\Debug\net8.0\Data\products.json
+C:\Users\federico.carbonell\Documents\Ejercicio\backend\ProductComparisonApi\bin\Debug\net8.0\ProductComparisonApi.exe
+C:\Users\federico.carbonell\Documents\Ejercicio\backend\ProductComparisonApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\federico.carbonell\Documents\Ejercicio\backend\ProductComparisonApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\federico.carbonell\Documents\Ejercicio\backend\ProductComparisonApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\federico.carbonell\Documents\Ejercicio\backend\ProductComparisonApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\federico.carbonell\Documents\Ejercicio\backend\ProductComparisonApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\federico.carbonell\Documents\Ejercicio\backend\ProductComparisonApi\obj\Debug\net8.0\ProductComparisonApi.csproj.AssemblyReference.cache
+C:\Users\federico.carbonell\Documents\Ejercicio\backend\ProductComparisonApi\obj\Debug\net8.0\ProductComparisonApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\federico.carbonell\Documents\Ejercicio\backend\ProductComparisonApi\obj\Debug\net8.0\ProductComparisonApi.AssemblyInfoInputs.cache
+C:\Users\federico.carbonell\Documents\Ejercicio\backend\ProductComparisonApi\obj\Debug\net8.0\ProductComparisonApi.AssemblyInfo.cs
+C:\Users\federico.carbonell\Documents\Ejercicio\backend\ProductComparisonApi\obj\Debug\net8.0\ProductComparisonApi.csproj.CoreCompileInputs.cache
+C:\Users\federico.carbonell\Documents\Ejercicio\backend\ProductComparisonApi\obj\Debug\net8.0\ProductComparisonApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\federico.carbonell\Documents\Ejercicio\backend\ProductComparisonApi\obj\Debug\net8.0\ProductComparisonApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\federico.carbonell\Documents\Ejercicio\backend\ProductComparisonApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\federico.carbonell\Documents\Ejercicio\backend\ProductComparisonApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\federico.carbonell\Documents\Ejercicio\backend\ProductComparisonApi\obj\Debug\net8.0\staticwebassets\msbuild.ProductComparisonApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\federico.carbonell\Documents\Ejercicio\backend\ProductComparisonApi\obj\Debug\net8.0\staticwebassets\msbuild.build.ProductComparisonApi.props
+C:\Users\federico.carbonell\Documents\Ejercicio\backend\ProductComparisonApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProductComparisonApi.props
+C:\Users\federico.carbonell\Documents\Ejercicio\backend\ProductComparisonApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProductComparisonApi.props
+C:\Users\federico.carbonell\Documents\Ejercicio\backend\ProductComparisonApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\federico.carbonell\Documents\Ejercicio\backend\ProductComparisonApi\obj\Debug\net8.0\scopedcss\bundle\ProductComparisonApi.styles.css
+C:\Users\federico.carbonell\Documents\Ejercicio\backend\ProductComparisonApi\obj\Debug\net8.0\ProductC.FAE24008.Up2Date
+C:\Users\federico.carbonell\Documents\Ejercicio\backend\ProductComparisonApi\obj\Debug\net8.0\ProductComparisonApi.dll
+C:\Users\federico.carbonell\Documents\Ejercicio\backend\ProductComparisonApi\obj\Debug\net8.0\refint\ProductComparisonApi.dll
+C:\Users\federico.carbonell\Documents\Ejercicio\backend\ProductComparisonApi\obj\Debug\net8.0\ProductComparisonApi.pdb
+C:\Users\federico.carbonell\Documents\Ejercicio\backend\ProductComparisonApi\bin\Debug\net8.0\ProductComparisonApi.deps.json
+C:\Users\federico.carbonell\Documents\Ejercicio\backend\ProductComparisonApi\bin\Debug\net8.0\ProductComparisonApi.runtimeconfig.json
+C:\Users\federico.carbonell\Documents\Ejercicio\backend\ProductComparisonApi\bin\Debug\net8.0\ProductComparisonApi.dll
+C:\Users\federico.carbonell\Documents\Ejercicio\backend\ProductComparisonApi\bin\Debug\net8.0\ProductComparisonApi.pdb
+C:\Users\federico.carbonell\Documents\Ejercicio\backend\ProductComparisonApi\obj\Debug\net8.0\ProductComparisonApi.genruntimeconfig.cache
+C:\Users\federico.carbonell\Documents\Ejercicio\backend\ProductComparisonApi\obj\Debug\net8.0\ref\ProductComparisonApi.dll
